@@ -1,0 +1,9 @@
+{
+  "name": "line-complaint-bot",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "dependencies": {
+    "@line/bot-sdk": "^9.5.1",
+    "express": "^4.21.2"
+  }
+}
